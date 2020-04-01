@@ -1,8 +1,10 @@
-' ==========================
-'  Welcom to IchigoJam club
-' ++++++++++++++++++++++++++
+' ==============================
 '
-' [1] Anti-Coronavirus Dashboard
-' [2] IchigoJam Q&A
+'    Welcom to IchigoJam club
+'
+' ++++++++++++++++++++++++++++++
+'
+' 1 Anti-Coronavirus Dashboard
+' 2 IchigoJam Q&A
 '
 ?"MJ GET ichigojam.club/
