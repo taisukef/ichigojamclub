@@ -1,10 +1,9 @@
 '=============================
 '        IchigoJam Q&A
 '=============================
-' 
 ' Q. How old is IchigoJam?
 ' A. 6 years old.
 '
 ' [Ask to Inventor!]
 ' Use English and _ instead of space!
-?"MJ GET ichigojam.club/
+?"MJ GET ichigojam.club/?ask=

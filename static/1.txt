@@ -1,8 +1,7 @@
 '=============================
 '       COVID-19 Japan
-'  AntiCoronavirus Dashboard
+' Anti-Coronavirus Dashboard
 '=============================
-' 
 ' TOTAL  TTR ISK TYM AMR HKD
 '  1423    0   6   1   7  49
 'YMG SMN OKY FKI NGT AKT IWT
