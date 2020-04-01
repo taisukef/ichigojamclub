@@ -1,4 +1,5 @@
 '=============================
+'       COVID-19 Japan
 '  AntiCoronavirus Dashboard
 '=============================
 ' 
@@ -16,6 +17,9 @@
 '  1   2   1   3   2 407  20
 'OKN KOC TKS MIE AIC KNG CHI
 '  7   3   0   0   9 109  89
+'
+' last update: 2020-03-30
+' DATA SRC https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html
 '
 ' [TOP]
 ?"MJ GET ichigojam.club/
