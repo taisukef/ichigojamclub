@@ -1,6 +1,6 @@
-' ===========================
-'  AntiCoronavirus Dashboard
-' ===========================
+' =============================
+'   AntiCoronavirus Dashboard
+' =============================
 ' 
 ' TOTAL  TTR ISK TYM AMR HKD
 '  1423    0   6   1   7  49
