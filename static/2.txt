@@ -1,0 +1,9 @@
+' ==========================
+'  IchigoJam Q&A
+' ++++++++++++++++++++++++++
+' 
+' Q. How old IchigoJam is?
+' A. 6 years old.
+'
+' [Ask to Inventor!]
+?"MJ GET ichigojam.club/?ask=

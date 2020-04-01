@@ -1,0 +1,21 @@
+' ==========================
+'  AntiCoronavirus Dashboard
+' ++++++++++++++++++++++++++
+' 
+' TOTAL  TTR ISK TYM AMR HKD
+'  1423    0   6   1   7  49
+'YMG SMN OKY FKI NGT AKT IWT
+'  4   0   4  15  24   2   0
+'NGS FKO HRS SIG NGN YMG MYG
+'  2  21   5   5   5   0   5
+'SAG OIT HYG KYT YMN GNM FKS
+'  1  27 108  41   3  17   2
+'KMM MYZ OSA NAR GIF SIT TCG
+'  8   2 167   3  20  66  10
+'KGS EHM KAG WKY SZO TKY IBR
+'  1   2   1   3   2 407  20
+'OKN KOC TKS MIE AIC KNG CHI
+'  7   3   0   0   9 109  89
+'
+' [TOP]
+?"MJ GET ichigojam.club/
